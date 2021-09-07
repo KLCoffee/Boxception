@@ -1,0 +1,14 @@
+/* BOXCEPTION (DIV VERSION) */
+h1 {
+    /* Center's page title*/
+    text-align: center;  
+}
+
+
+div {
+    width: 100px;
+    height: 100px;
+    border: 3px;
+}
+
+
